@@ -1,4 +1,4 @@
-package methodpractice;
+package selfPractice.methodpractice;
 
 public class Ex1 {
 	static void myMethod(String fname) {
