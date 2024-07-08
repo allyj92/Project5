@@ -1,4 +1,4 @@
-package methodpractice;
+package selfPractice.methodpractice;
 
 public class Ex3 {
 	static void checkAge(int age) {
